@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://neelkanthjdabhi.github.io/sitemap.xml
+Host: https://neelkanthjdabhi.github.io
