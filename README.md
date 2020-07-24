@@ -22,8 +22,8 @@ I'm currently looking for exciting internship opportunities, my inbox is always 
 Whether you have a question or just want to say hi, I'll try my best to get back to you, as soon as possible! ping me on neelkanth@dal.ca
 
 Technologies:
-- Java, Android, UI/UX Designing, Node.js, Sails.js
-- Docker, AWS, Firebase
+- Java, Android, Node.js, Sails.js, Docker, AWS and Firebase
+- UI/UX Designing, Adobe XD, Adobe After Effects
 
 Also interested in:
 - Motion Design and Human Computer Interaction
